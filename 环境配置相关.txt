@@ -1,0 +1,5 @@
+按照requirements.txt创建和安装环境
+
+其中paddlepaddle-gpu需要在paddle官网下载，3.3.1版本
+
+本路径下的ultralytics文件夹需要拷贝至：{你的anaconda目录}/envs/{运行本项目的conda环境名称}/site-packages/中，替换原有库文件
