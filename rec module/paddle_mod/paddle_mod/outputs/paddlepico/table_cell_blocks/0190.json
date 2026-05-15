@@ -1,0 +1,95 @@
+{
+  "model_name": "RT-DETR-L_wired_table_cell_det",
+  "table_count": 1,
+  "total_cell_count": 4,
+  "tables": [
+    {
+      "table_index": 0,
+      "label": "table",
+      "score": 0.8019104599952698,
+      "table_coordinate": [
+        421,
+        552,
+        2223,
+        2980
+      ],
+      "cell_count": 4,
+      "cells": [
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.5207017064094543,
+          "coordinate": [
+            421.41,
+            553.077,
+            703.042,
+            2215.724
+          ],
+          "coordinate_in_table": [
+            0.41,
+            1.077,
+            282.042,
+            1663.724
+          ],
+          "cell_index": 0
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9819902181625366,
+          "coordinate": [
+            699.543,
+            553.702,
+            2216.227,
+            2215.246
+          ],
+          "coordinate_in_table": [
+            278.543,
+            1.702,
+            1795.227,
+            1663.246
+          ],
+          "cell_index": 1
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.5084328055381775,
+          "coordinate": [
+            422.178,
+            2213.435,
+            699.98,
+            2974.853
+          ],
+          "coordinate_in_table": [
+            1.178,
+            1661.435,
+            278.98,
+            2422.853
+          ],
+          "cell_index": 2
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.6895728707313538,
+          "coordinate": [
+            697.091,
+            2214.28,
+            2215.634,
+            2977.7
+          ],
+          "coordinate_in_table": [
+            276.091,
+            1662.28,
+            1794.634,
+            2425.7
+          ],
+          "cell_index": 3
+        }
+      ]
+    }
+  ],
+  "image_name": "0190.jpg",
+  "source_layout_result_json": "outputs\\paddlepico\\json\\0190.json"
+}

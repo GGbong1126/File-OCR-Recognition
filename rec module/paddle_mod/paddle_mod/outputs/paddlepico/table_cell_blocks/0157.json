@@ -1,0 +1,401 @@
+{
+  "model_name": "RT-DETR-L_wired_table_cell_det",
+  "table_count": 1,
+  "total_cell_count": 21,
+  "tables": [
+    {
+      "table_index": 0,
+      "label": "table",
+      "score": 0.9678923487663269,
+      "table_coordinate": [
+        366,
+        727,
+        2092,
+        3099
+      ],
+      "cell_count": 21,
+      "cells": [
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9493558406829834,
+          "coordinate": [
+            386.781,
+            727.251,
+            634.569,
+            868.208
+          ],
+          "coordinate_in_table": [
+            20.781,
+            0.251,
+            268.569,
+            141.208
+          ],
+          "cell_index": 0
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.7707158923149109,
+          "coordinate": [
+            634.42,
+            728.132,
+            908.791,
+            867.515
+          ],
+          "coordinate_in_table": [
+            268.42,
+            1.132,
+            542.791,
+            140.515
+          ],
+          "cell_index": 1
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.947460412979126,
+          "coordinate": [
+            907.52,
+            728.387,
+            1058.576,
+            867.172
+          ],
+          "coordinate_in_table": [
+            541.52,
+            1.387,
+            692.576,
+            140.172
+          ],
+          "cell_index": 2
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9508436322212219,
+          "coordinate": [
+            1058.0,
+            728.615,
+            1229.131,
+            867.547
+          ],
+          "coordinate_in_table": [
+            692.0,
+            1.615,
+            863.131,
+            140.547
+          ],
+          "cell_index": 3
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9515253901481628,
+          "coordinate": [
+            1227.98,
+            729.528,
+            1392.312,
+            867.957
+          ],
+          "coordinate_in_table": [
+            861.98,
+            2.528,
+            1026.312,
+            140.957
+          ],
+          "cell_index": 4
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9528094530105591,
+          "coordinate": [
+            1392.417,
+            730.787,
+            1547.642,
+            868.303
+          ],
+          "coordinate_in_table": [
+            1026.417,
+            3.787,
+            1181.642,
+            141.303
+          ],
+          "cell_index": 5
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9598566889762878,
+          "coordinate": [
+            1546.423,
+            730.943,
+            1830.881,
+            868.926
+          ],
+          "coordinate_in_table": [
+            1180.423,
+            3.943,
+            1464.881,
+            141.926
+          ],
+          "cell_index": 6
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9525707960128784,
+          "coordinate": [
+            1830.291,
+            731.501,
+            2081.061,
+            870.058
+          ],
+          "coordinate_in_table": [
+            1464.291,
+            4.501,
+            1715.061,
+            143.058
+          ],
+          "cell_index": 7
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.31165093183517456,
+          "coordinate": [
+            632.671,
+            728.555,
+            908.588,
+            1003.581
+          ],
+          "coordinate_in_table": [
+            266.671,
+            1.555,
+            542.588,
+            276.581
+          ],
+          "cell_index": 8
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9549036622047424,
+          "coordinate": [
+            384.703,
+            868.107,
+            632.761,
+            1005.38
+          ],
+          "coordinate_in_table": [
+            18.703,
+            141.107,
+            266.761,
+            278.38
+          ],
+          "cell_index": 9
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.8551854491233826,
+          "coordinate": [
+            631.97,
+            867.243,
+            907.414,
+            1005.268
+          ],
+          "coordinate_in_table": [
+            265.97,
+            140.243,
+            541.414,
+            278.268
+          ],
+          "cell_index": 10
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9394950866699219,
+          "coordinate": [
+            906.152,
+            867.093,
+            1167.343,
+            1005.406
+          ],
+          "coordinate_in_table": [
+            540.152,
+            140.093,
+            801.343,
+            278.406
+          ],
+          "cell_index": 11
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.949337363243103,
+          "coordinate": [
+            1165.702,
+            867.527,
+            1468.909,
+            1006.546
+          ],
+          "coordinate_in_table": [
+            799.702,
+            140.527,
+            1102.909,
+            279.546
+          ],
+          "cell_index": 12
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9435719847679138,
+          "coordinate": [
+            1467.929,
+            868.116,
+            1755.591,
+            1008.01
+          ],
+          "coordinate_in_table": [
+            1101.929,
+            141.116,
+            1389.591,
+            281.01
+          ],
+          "cell_index": 13
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9426712393760681,
+          "coordinate": [
+            1753.685,
+            868.7,
+            2080.332,
+            1010.475
+          ],
+          "coordinate_in_table": [
+            1387.685,
+            141.7,
+            1714.332,
+            283.475
+          ],
+          "cell_index": 14
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9701396226882935,
+          "coordinate": [
+            379.438,
+            1003.591,
+            627.631,
+            2389.899
+          ],
+          "coordinate_in_table": [
+            13.438,
+            276.591,
+            261.631,
+            1662.899
+          ],
+          "cell_index": 15
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9843218326568604,
+          "coordinate": [
+            622.567,
+            1004.666,
+            2078.041,
+            2387.472
+          ],
+          "coordinate_in_table": [
+            256.567,
+            277.666,
+            1712.041,
+            1660.472
+          ],
+          "cell_index": 16
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9558910131454468,
+          "coordinate": [
+            380.402,
+            2388.084,
+            618.294,
+            2754.125
+          ],
+          "coordinate_in_table": [
+            14.402,
+            1661.084,
+            252.294,
+            2027.125
+          ],
+          "cell_index": 17
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9745961427688599,
+          "coordinate": [
+            616.499,
+            2384.01,
+            2072.782,
+            2750.232
+          ],
+          "coordinate_in_table": [
+            250.499,
+            1657.01,
+            1706.782,
+            2023.232
+          ],
+          "cell_index": 18
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9561105370521545,
+          "coordinate": [
+            384.559,
+            2751.403,
+            616.912,
+            3078.278
+          ],
+          "coordinate_in_table": [
+            18.559,
+            2024.403,
+            250.912,
+            2351.278
+          ],
+          "cell_index": 19
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9705567955970764,
+          "coordinate": [
+            614.831,
+            2748.32,
+            2071.897,
+            3073.413
+          ],
+          "coordinate_in_table": [
+            248.831,
+            2021.32,
+            1705.897,
+            2346.413
+          ],
+          "cell_index": 20
+        }
+      ]
+    }
+  ],
+  "image_name": "0157.jpg",
+  "source_layout_result_json": "outputs\\paddlepico\\json\\0157.json"
+}

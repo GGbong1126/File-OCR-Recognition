@@ -1,0 +1,33 @@
+{
+  "use_gpu": true,
+  "lang": "ch",
+  "table": true,
+  "ocr": true,
+  "show_log": false,
+  "paddlepico": {
+    "input_path": "data/raw",
+    "output_root": "outputs/paddlepico",
+    "model_name": "PP-DocLayoutV3",
+    "model_dir": null,
+    "device": "gpu:0",
+    "threshold": 0.5,
+    "batch_size": 1,
+    "layout_nms": true,
+    "layout_unclip_ratio": null,
+    "layout_merge_bboxes_mode": "large",
+    "save_visualization": true,
+    "save_raw_result": true,
+    "table_cell_postprocess": {
+      "enabled": true,
+      "model_name": "RT-DETR-L_wired_table_cell_det",
+      "model_dir": null,
+      "device": "gpu:0",
+      "threshold": 0.3,
+      "batch_size": 1,
+      "save_raw_result": false,
+      "save_visualization": true,
+      "output_dirname": "table_cell_blocks",
+      "visualization_dirname": "table_cell_visualizations"
+    }
+  }
+}

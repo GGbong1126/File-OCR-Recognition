@@ -1,0 +1,131 @@
+{
+  "model_name": "RT-DETR-L_wired_table_cell_det",
+  "table_count": 1,
+  "total_cell_count": 6,
+  "tables": [
+    {
+      "table_index": 0,
+      "label": "table",
+      "score": 0.9663660526275635,
+      "table_coordinate": [
+        336,
+        276,
+        2189,
+        3147
+      ],
+      "cell_count": 6,
+      "cells": [
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9636387228965759,
+          "coordinate": [
+            346.346,
+            282.853,
+            482.274,
+            1304.052
+          ],
+          "coordinate_in_table": [
+            10.346,
+            6.853,
+            146.274,
+            1028.052
+          ],
+          "cell_index": 0
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9837250113487244,
+          "coordinate": [
+            480.382,
+            276.911,
+            2186.251,
+            1301.43
+          ],
+          "coordinate_in_table": [
+            144.382,
+            0.911,
+            1850.251,
+            1025.43
+          ],
+          "cell_index": 1
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9673444628715515,
+          "coordinate": [
+            345.395,
+            1303.101,
+            480.914,
+            2335.987
+          ],
+          "coordinate_in_table": [
+            9.395,
+            1027.101,
+            144.914,
+            2059.987
+          ],
+          "cell_index": 2
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9843366146087646,
+          "coordinate": [
+            478.998,
+            1288.665,
+            2187.052,
+            2334.907
+          ],
+          "coordinate_in_table": [
+            142.998,
+            1012.665,
+            1851.052,
+            2058.907
+          ],
+          "cell_index": 3
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.95846027135849,
+          "coordinate": [
+            341.308,
+            2334.8,
+            477.725,
+            3138.451
+          ],
+          "coordinate_in_table": [
+            5.308,
+            2058.8,
+            141.725,
+            2862.451
+          ],
+          "cell_index": 4
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9590945243835449,
+          "coordinate": [
+            474.457,
+            2329.385,
+            2188.005,
+            3140.742
+          ],
+          "coordinate_in_table": [
+            138.457,
+            2053.385,
+            1852.005,
+            2864.742
+          ],
+          "cell_index": 5
+        }
+      ]
+    }
+  ],
+  "image_name": "0225.jpg",
+  "source_layout_result_json": "outputs\\paddlepico\\json\\0225.json"
+}

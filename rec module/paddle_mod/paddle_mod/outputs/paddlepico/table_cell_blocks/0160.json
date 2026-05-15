@@ -1,0 +1,365 @@
+{
+  "model_name": "RT-DETR-L_wired_table_cell_det",
+  "table_count": 1,
+  "total_cell_count": 19,
+  "tables": [
+    {
+      "table_index": 0,
+      "label": "table",
+      "score": 0.59001225233078,
+      "table_coordinate": [
+        311,
+        381,
+        1955,
+        1049
+      ],
+      "cell_count": 19,
+      "cells": [
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9519100189208984,
+          "coordinate": [
+            314.456,
+            383.065,
+            494.484,
+            506.618
+          ],
+          "coordinate_in_table": [
+            3.456,
+            2.065,
+            183.484,
+            125.618
+          ],
+          "cell_index": 0
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9254521131515503,
+          "coordinate": [
+            493.41,
+            383.183,
+            844.81,
+            505.734
+          ],
+          "coordinate_in_table": [
+            182.41,
+            2.183,
+            533.81,
+            124.734
+          ],
+          "cell_index": 1
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9464147686958313,
+          "coordinate": [
+            844.556,
+            384.125,
+            1024.615,
+            505.421
+          ],
+          "coordinate_in_table": [
+            533.556,
+            3.125,
+            713.615,
+            124.421
+          ],
+          "cell_index": 2
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.4769898056983948,
+          "coordinate": [
+            1023.168,
+            383.99,
+            1955.0,
+            506.205
+          ],
+          "coordinate_in_table": [
+            712.168,
+            2.99,
+            1644.0,
+            125.205
+          ],
+          "cell_index": 3
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.3584003150463104,
+          "coordinate": [
+            1023.464,
+            383.757,
+            1954.782,
+            628.937
+          ],
+          "coordinate_in_table": [
+            712.464,
+            2.757,
+            1643.782,
+            247.937
+          ],
+          "cell_index": 4
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9596524238586426,
+          "coordinate": [
+            313.891,
+            506.198,
+            492.97,
+            628.366
+          ],
+          "coordinate_in_table": [
+            2.891,
+            125.198,
+            181.97,
+            247.366
+          ],
+          "cell_index": 5
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9528864026069641,
+          "coordinate": [
+            491.513,
+            505.574,
+            844.135,
+            628.814
+          ],
+          "coordinate_in_table": [
+            180.513,
+            124.574,
+            533.135,
+            247.814
+          ],
+          "cell_index": 6
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9472527503967285,
+          "coordinate": [
+            843.38,
+            505.445,
+            1023.914,
+            628.476
+          ],
+          "coordinate_in_table": [
+            532.38,
+            124.445,
+            712.914,
+            247.476
+          ],
+          "cell_index": 7
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.8238593935966492,
+          "coordinate": [
+            1022.729,
+            505.832,
+            1953.686,
+            629.143
+          ],
+          "coordinate_in_table": [
+            711.729,
+            124.832,
+            1642.686,
+            248.143
+          ],
+          "cell_index": 8
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.959894597530365,
+          "coordinate": [
+            312.929,
+            628.16,
+            491.547,
+            750.616
+          ],
+          "coordinate_in_table": [
+            1.929,
+            247.16,
+            180.547,
+            369.616
+          ],
+          "cell_index": 9
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9658563137054443,
+          "coordinate": [
+            490.388,
+            628.598,
+            842.437,
+            750.76
+          ],
+          "coordinate_in_table": [
+            179.388,
+            247.598,
+            531.437,
+            369.76
+          ],
+          "cell_index": 10
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9509538412094116,
+          "coordinate": [
+            842.151,
+            628.539,
+            1023.217,
+            750.288
+          ],
+          "coordinate_in_table": [
+            531.151,
+            247.539,
+            712.217,
+            369.288
+          ],
+          "cell_index": 11
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9253799319267273,
+          "coordinate": [
+            1022.315,
+            628.558,
+            1953.923,
+            750.944
+          ],
+          "coordinate_in_table": [
+            711.315,
+            247.558,
+            1642.923,
+            369.944
+          ],
+          "cell_index": 12
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9561570882797241,
+          "coordinate": [
+            312.665,
+            750.412,
+            491.127,
+            872.165
+          ],
+          "coordinate_in_table": [
+            1.665,
+            369.412,
+            180.127,
+            491.165
+          ],
+          "cell_index": 13
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9610680937767029,
+          "coordinate": [
+            490.012,
+            750.613,
+            841.941,
+            872.823
+          ],
+          "coordinate_in_table": [
+            179.012,
+            369.613,
+            530.941,
+            491.823
+          ],
+          "cell_index": 14
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9431511759757996,
+          "coordinate": [
+            841.294,
+            750.108,
+            1022.501,
+            872.896
+          ],
+          "coordinate_in_table": [
+            530.294,
+            369.108,
+            711.501,
+            491.896
+          ],
+          "cell_index": 15
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9245700240135193,
+          "coordinate": [
+            1021.092,
+            750.285,
+            1952.568,
+            873.769
+          ],
+          "coordinate_in_table": [
+            710.092,
+            369.285,
+            1641.568,
+            492.769
+          ],
+          "cell_index": 16
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9497413039207458,
+          "coordinate": [
+            312.264,
+            872.25,
+            840.803,
+            1045.286
+          ],
+          "coordinate_in_table": [
+            1.264,
+            491.25,
+            529.803,
+            664.286
+          ],
+          "cell_index": 17
+        },
+        {
+          "cls_id": 0,
+          "label": "cell",
+          "score": 0.9439201354980469,
+          "coordinate": [
+            839.068,
+            872.917,
+            1952.075,
+            1045.346
+          ],
+          "coordinate_in_table": [
+            528.068,
+            491.917,
+            1641.075,
+            664.346
+          ],
+          "cell_index": 18
+        }
+      ]
+    }
+  ],
+  "image_name": "0160.jpg",
+  "source_layout_result_json": "outputs\\paddlepico\\json\\0160.json"
+}

@@ -1,0 +1,444 @@
+{
+  "total_images": 48,
+  "processed_results": 48,
+  "results": [
+    {
+      "image_name": "0072.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0072.json",
+      "box_count": 4,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0072.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0072.jpg"
+    },
+    {
+      "image_name": "0074.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0074.json",
+      "box_count": 4,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0074.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0074.jpg"
+    },
+    {
+      "image_name": "0075.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0075.json",
+      "box_count": 6,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0075.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0075.jpg"
+    },
+    {
+      "image_name": "0081.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0081.json",
+      "box_count": 4,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0081.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0081.jpg"
+    },
+    {
+      "image_name": "0082.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0082.json",
+      "box_count": 17,
+      "table_count": 1,
+      "cell_count": 17,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0082.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0082.jpg"
+    },
+    {
+      "image_name": "0085.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0085.json",
+      "box_count": 8,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0085.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0085.jpg"
+    },
+    {
+      "image_name": "0092.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0092.json",
+      "box_count": 8,
+      "table_count": 1,
+      "cell_count": 8,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0092.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0092.jpg"
+    },
+    {
+      "image_name": "0093.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0093.json",
+      "box_count": 97,
+      "table_count": 1,
+      "cell_count": 93,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0093.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0093.jpg"
+    },
+    {
+      "image_name": "0094.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0094.json",
+      "box_count": 35,
+      "table_count": 1,
+      "cell_count": 35,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0094.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0094.jpg"
+    },
+    {
+      "image_name": "0095.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0095.json",
+      "box_count": 10,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0095.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0095.jpg"
+    },
+    {
+      "image_name": "0096.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0096.json",
+      "box_count": 95,
+      "table_count": 1,
+      "cell_count": 93,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0096.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0096.jpg"
+    },
+    {
+      "image_name": "0097.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0097.json",
+      "box_count": 20,
+      "table_count": 1,
+      "cell_count": 20,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0097.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0097.jpg"
+    },
+    {
+      "image_name": "0098.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0098.json",
+      "box_count": 14,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0098.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0098.jpg"
+    },
+    {
+      "image_name": "0116.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0116.json",
+      "box_count": 7,
+      "table_count": 1,
+      "cell_count": 6,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0116.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0116.jpg"
+    },
+    {
+      "image_name": "0122.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0122.json",
+      "box_count": 64,
+      "table_count": 1,
+      "cell_count": 64,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0122.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0122.jpg"
+    },
+    {
+      "image_name": "0134.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0134.json",
+      "box_count": 7,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0134.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0134.jpg"
+    },
+    {
+      "image_name": "0141.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0141.json",
+      "box_count": 5,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0141.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0141.jpg"
+    },
+    {
+      "image_name": "0157.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0157.json",
+      "box_count": 25,
+      "table_count": 1,
+      "cell_count": 21,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0157.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0157.jpg"
+    },
+    {
+      "image_name": "0160.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0160.json",
+      "box_count": 25,
+      "table_count": 1,
+      "cell_count": 19,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0160.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0160.jpg"
+    },
+    {
+      "image_name": "0165.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0165.json",
+      "box_count": 25,
+      "table_count": 1,
+      "cell_count": 24,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0165.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0165.jpg"
+    },
+    {
+      "image_name": "0168.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0168.json",
+      "box_count": 30,
+      "table_count": 1,
+      "cell_count": 28,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0168.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0168.jpg"
+    },
+    {
+      "image_name": "0170.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0170.json",
+      "box_count": 23,
+      "table_count": 1,
+      "cell_count": 20,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0170.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0170.jpg"
+    },
+    {
+      "image_name": "0174.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0174.json",
+      "box_count": 60,
+      "table_count": 1,
+      "cell_count": 58,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0174.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0174.jpg"
+    },
+    {
+      "image_name": "0176.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0176.json",
+      "box_count": 64,
+      "table_count": 1,
+      "cell_count": 58,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0176.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0176.jpg"
+    },
+    {
+      "image_name": "0179.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0179.json",
+      "box_count": 119,
+      "table_count": 1,
+      "cell_count": 113,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0179.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0179.jpg"
+    },
+    {
+      "image_name": "0190.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0190.json",
+      "box_count": 4,
+      "table_count": 1,
+      "cell_count": 4,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0190.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0190.jpg"
+    },
+    {
+      "image_name": "0191.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0191.json",
+      "box_count": 12,
+      "table_count": 1,
+      "cell_count": 12,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0191.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0191.jpg"
+    },
+    {
+      "image_name": "0194.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0194.json",
+      "box_count": 44,
+      "table_count": 1,
+      "cell_count": 43,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0194.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0194.jpg"
+    },
+    {
+      "image_name": "0220.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0220.json",
+      "box_count": 141,
+      "table_count": 1,
+      "cell_count": 136,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0220.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0220.jpg"
+    },
+    {
+      "image_name": "0225.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0225.json",
+      "box_count": 6,
+      "table_count": 1,
+      "cell_count": 6,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0225.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0225.jpg"
+    },
+    {
+      "image_name": "0228.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0228.json",
+      "box_count": 77,
+      "table_count": 1,
+      "cell_count": 74,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0228.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0228.jpg"
+    },
+    {
+      "image_name": "0229.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0229.json",
+      "box_count": 45,
+      "table_count": 1,
+      "cell_count": 44,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0229.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0229.jpg"
+    },
+    {
+      "image_name": "0230.jpg",
+      "result_json": "outputs\\paddlepico\\json\\0230.json",
+      "box_count": 53,
+      "table_count": 1,
+      "cell_count": 48,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\0230.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\0230.jpg"
+    },
+    {
+      "image_name": "test.jpg",
+      "result_json": "outputs\\paddlepico\\json\\test.json",
+      "box_count": 5,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test.jpg"
+    },
+    {
+      "image_name": "test10.png",
+      "result_json": "outputs\\paddlepico\\json\\test10.json",
+      "box_count": 80,
+      "table_count": 2,
+      "cell_count": 70,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test10.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test10.jpg"
+    },
+    {
+      "image_name": "test11.png",
+      "result_json": "outputs\\paddlepico\\json\\test11.json",
+      "box_count": 11,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test11.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test11.jpg"
+    },
+    {
+      "image_name": "test12.png",
+      "result_json": "outputs\\paddlepico\\json\\test12.json",
+      "box_count": 1,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test12.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test12.jpg"
+    },
+    {
+      "image_name": "test13.png",
+      "result_json": "outputs\\paddlepico\\json\\test13.json",
+      "box_count": 6,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test13.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test13.jpg"
+    },
+    {
+      "image_name": "test14.png",
+      "result_json": "outputs\\paddlepico\\json\\test14.json",
+      "box_count": 4,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test14.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test14.jpg"
+    },
+    {
+      "image_name": "test15.png",
+      "result_json": "outputs\\paddlepico\\json\\test15.json",
+      "box_count": 5,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test15.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test15.jpg"
+    },
+    {
+      "image_name": "test2.jpg",
+      "result_json": "outputs\\paddlepico\\json\\test2.json",
+      "box_count": 5,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test2.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test2.jpg"
+    },
+    {
+      "image_name": "test3.png",
+      "result_json": "outputs\\paddlepico\\json\\test3.json",
+      "box_count": 5,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test3.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test3.jpg"
+    },
+    {
+      "image_name": "test4.png",
+      "result_json": "outputs\\paddlepico\\json\\test4.json",
+      "box_count": 7,
+      "table_count": 0,
+      "cell_count": 0,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test4.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test4.jpg"
+    },
+    {
+      "image_name": "test5.png",
+      "result_json": "outputs\\paddlepico\\json\\test5.json",
+      "box_count": 6,
+      "table_count": 1,
+      "cell_count": 6,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test5.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test5.jpg"
+    },
+    {
+      "image_name": "test6.png",
+      "result_json": "outputs\\paddlepico\\json\\test6.json",
+      "box_count": 50,
+      "table_count": 1,
+      "cell_count": 45,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test6.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test6.jpg"
+    },
+    {
+      "image_name": "test7.png",
+      "result_json": "outputs\\paddlepico\\json\\test7.json",
+      "box_count": 59,
+      "table_count": 1,
+      "cell_count": 55,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test7.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test7.jpg"
+    },
+    {
+      "image_name": "test8.png",
+      "result_json": "outputs\\paddlepico\\json\\test8.json",
+      "box_count": 87,
+      "table_count": 1,
+      "cell_count": 83,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test8.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test8.jpg"
+    },
+    {
+      "image_name": "test9.png",
+      "result_json": "outputs\\paddlepico\\json\\test9.json",
+      "box_count": 51,
+      "table_count": 1,
+      "cell_count": 51,
+      "table_cell_json": "outputs\\paddlepico\\table_cell_blocks\\test9.json",
+      "table_cell_visualization": "outputs\\paddlepico\\table_cell_visualizations\\test9.jpg"
+    }
+  ],
+  "table_cell_postprocess": {
+    "enabled": true,
+    "model_name": "RT-DETR-L_wired_table_cell_det",
+    "output_dir": "outputs\\paddlepico\\table_cell_blocks",
+    "visualization_dir": "outputs\\paddlepico\\table_cell_visualizations"
+  }
+}

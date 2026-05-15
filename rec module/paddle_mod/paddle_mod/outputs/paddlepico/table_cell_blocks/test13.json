@@ -1,0 +1,8 @@
+{
+  "model_name": "RT-DETR-L_wired_table_cell_det",
+  "table_count": 0,
+  "total_cell_count": 0,
+  "tables": [],
+  "image_name": "test13.png",
+  "source_layout_result_json": "outputs\\paddlepico\\json\\test13.json"
+}
